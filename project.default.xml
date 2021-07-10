@@ -1,0 +1,17 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+            <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="MTHome" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
