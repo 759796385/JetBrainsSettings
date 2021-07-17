@@ -29,8 +29,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-14336" />
-                              <option name="enabled" value="true" />
+                              <option name="color" value="-473676" />
                             </GrepColor>
                           </option>
                         </GrepStyle>
@@ -42,8 +41,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-256" />
-                              <option name="enabled" value="true" />
+                              <option name="color" value="-1118312" />
                             </GrepColor>
                           </option>
                         </GrepStyle>
@@ -111,5 +109,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>
