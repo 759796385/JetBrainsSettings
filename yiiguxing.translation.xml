@@ -1,16 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Distribute" />
       <item value="exeist" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626532269212" />
+    <option name="lastTrimTime" value="1627298258716" />
   </component>
 </application>
