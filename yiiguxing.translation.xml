@@ -1,19 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoked as soon as receive is called and before a Message is actually retrieved. If the return value is 'false', then no Message will be retrieved. This only applies to PollableChannels." />
+      <item value="Note that this will be invoked only if {@link preSend} successfully completed and returned a Message, i.e. it did not return {@code null}." />
+      <item value="Invoked after the completion of a send regardless of any exception that have been raised thus allowing for proper resource cleanup." />
+      <item value="regardless" />
+      <item value="invocation" />
+      <item value="represents" />
+      <item value="occur" />
+      <item value="modification" />
       <item value="Exist" />
       <item value="Distribute" />
       <item value="exeist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627298258716" />
+    <option name="lastTrimTime" value="1628146883216" />
   </component>
 </application>
