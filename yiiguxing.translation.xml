@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="395" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="upgrade" />
       <item value="Strage" />
       <item value="allocate" />
       <item value="Platform" />
@@ -28,13 +29,13 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="ENGLISH" value="18" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630069035773" />
+    <option name="lastTrimTime" value="1631092468997" />
   </component>
 </application>
