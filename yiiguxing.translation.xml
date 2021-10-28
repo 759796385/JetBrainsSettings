@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="395" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="result" />
       <item value="invalid" />
       <item value="toggle" />
       <item value="upgrade" />
