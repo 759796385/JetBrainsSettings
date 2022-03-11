@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="395" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Onece" />
+      <item value="tips Ones" />
       <item value="entrance" />
       <item value="business" />
       <item value="enterprise" />
@@ -38,14 +40,15 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="25" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646124910989" />
+    <option name="lastTrimTime" value="1646985047908" />
   </component>
 </application>
