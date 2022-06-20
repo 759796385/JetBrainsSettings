@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="logic" />
       <item value="complaint" />
       <item value="filter" />
       <item value="Template" />
@@ -45,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
         <entry key="ROMANIAN" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
@@ -54,6 +55,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655167875473" />
+    <option name="lastTrimTime" value="1655694826757" />
   </component>
 </application>
