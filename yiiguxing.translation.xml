@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="transfer" />
+      <item value="transfer Msg Channel" />
       <item value="Return any self initialization config that has been applied. By default this method checks {@link getStandardConfigLocations()} and assumes that any file that exists will have been applied." />
       <item value="Sets the length of the character sequence. The sequence is changed to a new character sequence whose length is specified by the argument. For every nonnegative index &lt;i&gt;k&lt;i&gt; less than {@code newLength}, the character at index &lt;i&gt;k&lt;i&gt; in the new character sequence is the same as the character at index &lt;i&gt;k&lt;i&gt; in the old sequence if &lt;i&gt;k&lt;i&gt; is less than the length of the old character sequence; otherwise, it is the null character {@code '\u005Cu0000'}." />
       <item value="Consult" />
@@ -53,8 +55,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="ROMANIAN" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
@@ -62,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657694493745" />
+    <option name="lastTrimTime" value="1658385350891" />
   </component>
 </application>
