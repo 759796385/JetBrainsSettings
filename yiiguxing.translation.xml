@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Transforms the String into a series of bits that can be compared bitwise to other CollationKeys. CollationKeys provide better performance than Collator.compare when Strings are involved in multiple comparisons. See the Collator class description for an example using CollationKeys. @param source the string to be transformed into a collation key. @return the CollationKey for the given String based on this Collator's collation rules. If the source String is null, a null CollationKey is returned." />
       <item value="trade Id" />
       <item value="ready" />
       <item value="transfer" />
@@ -52,12 +53,11 @@
       <item value="occur" />
       <item value="modification" />
       <item value="Exist" />
-      <item value="Distribute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="ROMANIAN" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658385350891" />
+    <option name="lastTrimTime" value="1660012628226" />
   </component>
 </application>
