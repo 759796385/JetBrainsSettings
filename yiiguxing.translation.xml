@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Allocated" />
       <item value="refund" />
       <item value="proof" />
       <item value="Comparison method violates its general contract" />
@@ -52,12 +53,11 @@
       <item value="Invoked after the completion of a send regardless of any exception that have been raised thus allowing for proper resource cleanup." />
       <item value="regardless" />
       <item value="invocation" />
-      <item value="represents" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="ROMANIAN" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660012628226" />
+    <option name="lastTrimTime" value="1661761700916" />
   </component>
 </application>
