@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="worksheet" />
+      <item value="orksheet" />
       <item value="operater_" />
       <item value="operator" />
       <item value="Modify 'wechatSdk' so that it conforms to the canonical names requirements." />
@@ -51,13 +53,11 @@
       <item value="business Key" />
       <item value="bussiness Key" />
       <item value="Online" />
-      <item value="THREE" />
-      <item value="Invoked as soon as receive is called and before a Message is actually retrieved. If the return value is 'false', then no Message will be retrieved. This only applies to PollableChannels." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="GREEK" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664266792506" />
+    <option name="lastTrimTime" value="1669972399994" />
   </component>
 </application>
