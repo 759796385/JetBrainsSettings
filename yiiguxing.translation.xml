@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="car Change" />
       <item value="Access" />
       <item value="partion Key" />
       <item value="three Day Ago" />
@@ -52,12 +53,11 @@
       <item value="Strage" />
       <item value="allocate" />
       <item value="Platform" />
-      <item value="Platfrom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="GREEK" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670826651353" />
+    <option name="lastTrimTime" value="1672025016070" />
   </component>
 </application>
