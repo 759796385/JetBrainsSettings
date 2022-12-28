@@ -68,4 +68,18 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1672025016070" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1672210492974" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="javafxutilPair has been compiled by a more recent version of the Java Runtime (class file version 54.0), this version of the Java Runtime only recognizes class file versions up to 52.0" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
